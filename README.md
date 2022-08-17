@@ -1,5 +1,5 @@
 # Mister-CPS-maps
-Arcade stick mappings for tournament play of Mister FPGA cps cores
+Arcade stick mappings for tournament play of Mister FPGA cps2 core
 
 
 The aim of these files are to provide Mister users with arcade stick map files in order to streamline the mappingprocess at tournaments.    
