@@ -1,4 +1,4 @@
-# Mister-CPS-maps
+# Mister-CPS2-maps
 Arcade stick mappings for tournament play of Mister FPGA cps2 core
 
 
