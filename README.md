@@ -11,6 +11,8 @@ sticks currently added are:
 
 brook Universal Fighting Board ps4 mode (latest fw),
 
+Brook PS4 Fighting Board Plus ps4 mode (fw v2.3, 6-2022),
+
 Hori HRAP N (ps4 mode),
 
 Hori Fighting Edge ps4 (ps4 mode),
@@ -20,6 +22,7 @@ Madcatz TE-S+ (ps4 mode),
 Madcatz SFIV TE (360),
 
 Madcatz SSFIV TE-S (360).
+
 
 
 to use/test these files, navigate to the config/inputs folder on your SD card, backup the .map files that that are there, then delete them and copy these .map files the the empty config/inputs folder. 
