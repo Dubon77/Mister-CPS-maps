@@ -92,6 +92,6 @@ stick 1:tilt Down -> short press the userbutton on your Mister to skip.
 
 That should be it. Now navigate to your inputs folder and find the map file that was just generated (you should be able to tell witch it is from the Time and date it was modified) and send me a copy so i can add it to this repo. You can mail it to me at simonvandenbon@gmail.com, you can send it to me over discord or you can make a PR here. please specify for witch stick (and what mode it was in) the map file is for.
 
-Note: if the author of the cps2 core changes the mapping in the mra files, then these map files will need to be updated. because of this its probably a good idea to test if they are still correct before a tounament, after a misterupdate the affects the cps2 mra files.
+Note: if the author of the cps2 core changes the mapping in the mra files, then these map files will need to be updated. because of this its probably a good idea to test if they are still correct before a tounament, after a misterupdate that affects the cps2 mra files.
 
 Note 2: some retail arcade sticks received revisions of their pcb. in those cases a map file for each revision will most likely be required.
