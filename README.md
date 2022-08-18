@@ -29,30 +29,54 @@ Stick 1 test: Tilt right -> short press the userbutton on your Mister to skip
 Stick 2 test: Tilt right -> short press the userbutton on your Mister to skip
 now the virtual snes pad will show:
 
-R -> press right. 
+R -> press right.
+
 L -> press left.
+
 D -> press down.
+
 U -> press Up.
+
 A -> press LK.
+
 B -> press HP.
+
 X -> press MP.
+
 Y -> press LP.
+
 L -> press MK.
+
 R -> press HK.
+
 select -> press start/options (yes i know).
+
 start -> press select.
+
 mouse move right -> short press the userbutton on your Mister to skip.
+
 mouse move left -> short press the userbutton on your Mister to skip.
+
 mouse move down -> short press the userbutton on your Mister to skip.
+
 mouse move up -> short press the userbutton on your Mister to skip.
+
 mouse btn left -> short press the userbutton on your Mister to skip.
+
 mouse btn right -> short press the userbutton on your Mister to skip.
+
 mouse btn middle -> short press the userbutton on your Mister to skip.
+
 mouse emu/sniper -> short press the userbutton on your Mister to skip.
+
 Menu -> press Home/Guide.
+
 Menu:OK -> press LK.
+
 Menu:Back -> press MK.
+
 stick 1:tilt right -> short press the userbutton on your Mister to skip.
+
 stick right:tilt Down -> short press the userbutton on your Mister to skip.
 
 That should be it. now navigate to your inputs folder and find the map file that was just generated (you should be able to tell witch it is from the Time and date it was modified) and send me a copy so i can add it to this repo. 
