@@ -8,11 +8,17 @@ putting these files in an empty /media/fat/config/inputs/ folder should result i
 The advantage of this aproach is that you only need to map once for Mister's main menu, and you shouldnt have to touch the in cps2 core mapping, and so pause also can't be mapped.
 
 sticks currently added are: 
+
 brook Universal Fighting Board ps4 mode (latest fw),
+
 Hori HRAP N (ps4 mode),
+
 Hori Fighting Edge ps4 (ps4 mode),
+
 Madcatz TE-S+ (ps4 mode),
+
 Madcatz SFIV TE (360),
+
 Madcatz SSFIV TE-S (360).
 
 
