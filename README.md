@@ -22,7 +22,7 @@ Madcatz SFIV TE (360),
 Madcatz SSFIV TE-S (360).
 
 
-to use test these files, navigate to the config/inputs folder on your SD card, backup the .map files that that are there, then delete them and copy these .map files the the empty config/inputs folder. 
+to use/test these files, navigate to the config/inputs folder on your SD card, backup the .map files that that are there, then delete them and copy these .map files the the empty config/inputs folder. 
 
 If you want to contribute to add to this repo please follow these exact instructions to map your stick in the same way:
 
