@@ -56,7 +56,7 @@ R -> press HK.
 
 select -> press start/options (yes i know).
 
-start -> press select.
+start -> press select/share
 
 mouse move right -> short press the userbutton on your Mister to skip.
 
