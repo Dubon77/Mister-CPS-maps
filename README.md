@@ -48,21 +48,21 @@ D -> press down.
 
 U -> press Up.
 
-A -> press LK.
+A -> press LK | cross  |A.
 
-B -> press HP.
+B -> press HP |R1      |RB.
 
-X -> press MP.
+X -> press MP |triangle|Y.
 
-Y -> press LP.
+Y -> press LP |square  |X.
 
-L -> press MK.
+L -> press MK |circle  |B.
 
-R -> press HK.
+R -> press HK |R2      |RT.
 
-select -> press start/options (yes i know).
+select -> press start/options/menu (yes i know this is counter intuitive but its related to the way the cps2 core maps to the virtual snes pad).
 
-start -> press select/share
+start -> press select/share/back/view
 
 mouse move right -> short press the userbutton on your Mister to skip.
 
@@ -80,11 +80,11 @@ mouse btn middle -> short press the userbutton on your Mister to skip.
 
 mouse emu/sniper -> short press the userbutton on your Mister to skip.
 
-Menu -> press Home/Guide.
+Menu -> press Home/PS/XB/xGuide.
 
-Menu:OK -> press LK.
+Menu:OK -> press LK | cross  |A.
 
-Menu:Back -> press MK.
+Menu:Back -> press MK |circle  |B.
 
 stick 1:tilt right -> short press the userbutton on your Mister to skip.
 
