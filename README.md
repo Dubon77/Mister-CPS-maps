@@ -9,13 +9,21 @@ The advantage of this aproach is that you only need to map once for Mister's mai
 
 sticks currently added are: 
 
-brook Universal Fighting Board ps4 mode (latest fw),
+Brook Universal Fighting Board ps4 mode (latest fw),
 
 Brook PS4 Fighting Board Plus ps4 mode (fw v2.3, 6-2022),
+
+PS360+ (fw 1.65)
 
 Hori HRAP N (ps4 mode),
 
 Hori Fighting Edge ps4 (ps4 mode),
+
+Hori VLX "kuro" ps4 (ps4 mode)
+
+Hori VLX ex 360
+
+Hori VLX "diamond" ps3
 
 Madcatz TE-S+ (ps4 mode),
 
